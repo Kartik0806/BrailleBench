@@ -1,0 +1,259 @@
+{"id": 1, "image_path": "braillebench/sample1.png", "ground_truth": "the less we see", "grade": 1}
+{"id": 3, "image_path": "braillebench/sample3.png", "ground_truth": "the more we see", "grade": 1}
+{"id": 4, "image_path": "braillebench/sample4.png", "ground_truth": "with our hearts", "grade": 1}
+{"id": 6, "image_path": "braillebench/sample6.png", "ground_truth": "the less we see with", "grade": 1}
+{"id": 7, "image_path": "braillebench/sample7.png", "ground_truth": "our eyes the more we", "grade": 1}
+{"id": 8, "image_path": "braillebench/sample8.png", "ground_truth": "see with our hearts", "grade": 1}
+{"id": 10, "image_path": "braillebench/sample10.png", "ground_truth": "pequeno, grande", "grade": 1}
+{"id": 11, "image_path": "braillebench/sample11.png", "ground_truth": "magro, gordo", "grade": 1}
+{"id": 12, "image_path": "braillebench/sample12.png", "ground_truth": "curto, comprido", "grade": 1}
+{"id": 13, "image_path": "braillebench/sample13.png", "ground_truth": "julie", "grade": 1}
+{"id": 14, "image_path": "braillebench/sample14.png", "ground_truth": "jace", "grade": 1}
+{"id": 15, "image_path": "braillebench/sample15.png", "ground_truth": "marguerite", "grade": 1}
+{"id": 16, "image_path": "braillebench/sample16.png", "ground_truth": "landen", "grade": 1}
+{"id": 17, "image_path": "braillebench/sample17.png", "ground_truth": "bailey", "grade": 1}
+{"id": 18, "image_path": "braillebench/sample18.png", "ground_truth": "we can read", "grade": 1}
+{"id": 19, "image_path": "braillebench/sample19.png", "ground_truth": "by touch", "grade": 1}
+{"id": 20, "image_path": "braillebench/sample20.png", "ground_truth": "abigail", "grade": 1}
+{"id": 21, "image_path": "braillebench/sample21.png", "ground_truth": "samantha", "grade": 1}
+{"id": 22, "image_path": "braillebench/sample22.png", "ground_truth": "blake", "grade": 1}
+{"id": 23, "image_path": "braillebench/sample23.png", "ground_truth": "mrs lynch", "grade": 1}
+{"id": 24, "image_path": "braillebench/sample24.png", "ground_truth": "thomas", "grade": 1}
+{"id": 25, "image_path": "braillebench/sample25.png", "ground_truth": "afton", "grade": 1}
+{"id": 26, "image_path": "braillebench/sample26.png", "ground_truth": "kyle", "grade": 1}
+{"id": 27, "image_path": "braillebench/sample27.png", "ground_truth": "jack", "grade": 1}
+{"id": 28, "image_path": "braillebench/sample28.png", "ground_truth": "jeremy", "grade": 1}
+{"id": 29, "image_path": "braillebench/sample29.png", "ground_truth": "do", "grade": 1}
+{"id": 30, "image_path": "braillebench/sample30.png", "ground_truth": "play", "grade": 1}
+{"id": 31, "image_path": "braillebench/sample31.png", "ground_truth": "my", "grade": 1}
+{"id": 32, "image_path": "braillebench/sample32.png", "ground_truth": "it", "grade": 1}
+{"id": 33, "image_path": "braillebench/sample33.png", "ground_truth": "and", "grade": 1}
+{"id": 34, "image_path": "braillebench/sample34.png", "ground_truth": "at", "grade": 1}
+{"id": 35, "image_path": "braillebench/sample35.png", "ground_truth": "see", "grade": 1}
+{"id": 36, "image_path": "braillebench/sample36.png", "ground_truth": "have", "grade": 1}
+{"id": 37, "image_path": "braillebench/sample37.png", "ground_truth": "look", "grade": 1}
+{"id": 38, "image_path": "braillebench/sample38.png", "ground_truth": "for", "grade": 1}
+{"id": 39, "image_path": "braillebench/sample39.png", "ground_truth": "go", "grade": 1}
+{"id": 40, "image_path": "braillebench/sample40.png", "ground_truth": "the", "grade": 1}
+{"id": 41, "image_path": "braillebench/sample41.png", "ground_truth": "free", "grade": 1}
+{"id": 42, "image_path": "braillebench/sample42.png", "ground_truth": "to", "grade": 1}
+{"id": 43, "image_path": "braillebench/sample43.png", "ground_truth": "can", "grade": 1}
+{"id": 44, "image_path": "braillebench/sample44.png", "ground_truth": "like", "grade": 1}
+{"id": 45, "image_path": "braillebench/sample45.png", "ground_truth": "up", "grade": 1}
+{"id": 46, "image_path": "braillebench/sample46.png", "ground_truth": "me", "grade": 1}
+{"id": 47, "image_path": "braillebench/sample47.png", "ground_truth": "no", "grade": 1}
+{"id": 48, "image_path": "braillebench/sample48.png", "ground_truth": "are", "grade": 1}
+{"id": 49, "image_path": "braillebench/sample49.png", "ground_truth": "said", "grade": 1}
+{"id": 50, "image_path": "braillebench/sample50.png", "ground_truth": "we", "grade": 1}
+{"id": 51, "image_path": "braillebench/sample51.png", "ground_truth": "has", "grade": 1}
+{"id": 52, "image_path": "braillebench/sample52.png", "ground_truth": "she", "grade": 1}
+{"id": 53, "image_path": "braillebench/sample53.png", "ground_truth": "am", "grade": 1}
+{"id": 54, "image_path": "braillebench/sample54.png", "ground_truth": "brought the ball to the", "grade": 1}
+{"id": 55, "image_path": "braillebench/sample55.png", "ground_truth": "mommy and she threw the ball", "grade": 1}
+{"id": 56, "image_path": "braillebench/sample56.png", "ground_truth": "next. They played all", "grade": 1}
+{"id": 57, "image_path": "braillebench/sample57.png", "ground_truth": "afternoon with Furry outside.", "grade": 1}
+{"id": 58, "image_path": "braillebench/sample58.png", "ground_truth": "he was happy.", "grade": 1}
+{"id": 59, "image_path": "braillebench/sample59.png", "ground_truth": "Furry the Dog", "grade": 1}
+{"id": 62, "image_path": "braillebench/sample62.png", "ground_truth": "He took it home to play.", "grade": 1}
+{"id": 63, "image_path": "braillebench/sample63.png", "ground_truth": "with his family.", "grade": 1}
+{"id": 64, "image_path": "braillebench/sample64.png", "ground_truth": "The little girl laughed", "grade": 1}
+{"id": 65, "image_path": "braillebench/sample65.png", "ground_truth": "and laughed. The daddy", "grade": 1}
+{"id": 66, "image_path": "braillebench/sample66.png", "ground_truth": "threw the ball and Furry", "grade": 1}
+{"id": 67, "image_path": "braillebench/sample67.png", "ground_truth": "would run and get it. He", "grade": 1}
+{"id": 68, "image_path": "braillebench/sample68.png", "ground_truth": "elevator room", "grade": 1}
+{"id": 69, "image_path": "braillebench/sample69.png", "ground_truth": "stazione san giovanni", "grade": 1}
+{"id": 70, "image_path": "braillebench/sample70.png", "ground_truth": "sei qui", "grade": 1}
+{"id": 71, "image_path": "braillebench/sample71.png", "ground_truth": "umpires room 1", "grade": 1}
+{"id": 75, "image_path": "braillebench/sample75.png", "ground_truth": "king st", "grade": 1}
+{"id": 79, "image_path": "braillebench/sample79.png", "ground_truth": "unisex accessible toilets", "grade": 1}
+{"id": 80, "image_path": "braillebench/sample80.png", "ground_truth": "sharp disposal", "grade": 1}
+{"id": 81, "image_path": "braillebench/sample81.png", "ground_truth": "umpires room 1", "grade": 1}
+{"id": 83, "image_path": "braillebench/sample83.png", "ground_truth": "first aid room", "grade": 1}
+{"id": 84, "image_path": "braillebench/sample84.png", "ground_truth": "260", "grade": 1}
+{"id": 85, "image_path": "braillebench/sample85.png", "ground_truth": "female change room", "grade": 1}
+{"id": 86, "image_path": "braillebench/sample86.png", "ground_truth": "female toilet male toilet", "grade": 1}
+{"id": 87, "image_path": "braillebench/sample87.png", "ground_truth": "fire exit", "grade": 1}
+{"id": 88, "image_path": "braillebench/sample88.png", "ground_truth": "DRINKING water", "grade": 1}
+{"id": 89, "image_path": "braillebench/sample89.png", "ground_truth": "exam room boys", "grade": 1}
+{"id": 90, "image_path": "braillebench/sample90.png", "ground_truth": "restricted area authorized personnel", "grade": 1}
+{"id": 96, "image_path": "braillebench/sample96.png", "ground_truth": "library", "grade": 1}
+{"id": 97, "image_path": "braillebench/sample97.png", "ground_truth": "ENTRANCE", "grade": 1}
+{"id": 98, "image_path": "braillebench/sample98.png", "ground_truth": "Change room / Shower area", "grade": 1}
+{"id": 99, "image_path": "braillebench/sample99.png", "ground_truth": "reception", "grade": 1}
+{"id": 100, "image_path": "braillebench/sample100.png", "ground_truth": "science lab", "grade": 1}
+{"id": 103, "image_path": "braillebench/sample103.png", "ground_truth": "sardar vallabhbhai patel auditorium", "grade": 1}
+{"id": 104, "image_path": "braillebench/sample104.png", "ground_truth": "apj abdul kalam centre", "grade": 1}
+{"id": 106, "image_path": "braillebench/sample106.png", "ground_truth": "up to concourse", "grade": 1}
+{"id": 107, "image_path": "braillebench/sample107.png", "ground_truth": "you are here", "grade": 1}
+{"id": 108, "image_path": "braillebench/sample108.png", "ground_truth": "escape route", "grade": 1}
+{"id": 109, "image_path": "braillebench/sample109.png", "ground_truth": "fire extinguisher", "grade": 1}
+{"id": 110, "image_path": "braillebench/sample110.png", "ground_truth": "fire hose", "grade": 1}
+{"id": 111, "image_path": "braillebench/sample111.png", "ground_truth": "stairs", "grade": 1}
+{"id": 112, "image_path": "braillebench/sample112.png", "ground_truth": "Lift", "grade": 1}
+{"id": 113, "image_path": "braillebench/sample113.png", "ground_truth": "Toilet", "grade": 1}
+{"id": 114, "image_path": "braillebench/sample114.png", "ground_truth": "Stairs", "grade": 1}
+{"id": 115, "image_path": "braillebench/sample115.png", "ground_truth": "Ramp", "grade": 1}
+{"id": 117, "image_path": "braillebench/sample117.png", "ground_truth": "suite 605", "grade": 1}
+{"id": 118, "image_path": "braillebench/sample118.png", "ground_truth": "thers ro", "grade": 1}
+{"id": 119, "image_path": "braillebench/sample119.png", "ground_truth": "fire safety", "grade": 1}
+{"id": 120, "image_path": "braillebench/sample120.png", "ground_truth": "STAIR end", "grade": 1}
+{"id": 124, "image_path": "braillebench/sample124.png", "ground_truth": "stair", "grade": 1}
+{"id": 126, "image_path": "braillebench/sample126.png", "ground_truth": "AYURVEDIC opd", "grade": 1}
+{"id": 127, "image_path": "braillebench/sample127.png", "ground_truth": "pwfroom", "grade": 1}
+{"id": 129, "image_path": "braillebench/sample129.png", "ground_truth": "director office", "grade": 1}
+{"id": 130, "image_path": "braillebench/sample130.png", "ground_truth": "1 d 01 tookable", "grade": 1}
+{"id": 134, "image_path": "braillebench/sample134.png", "ground_truth": "kitchen", "grade": 1}
+{"id": 135, "image_path": "braillebench/sample135.png", "ground_truth": "female changing", "grade": 1}
+{"id": 136, "image_path": "braillebench/sample136.png", "ground_truth": "clockroom", "grade": 1}
+{"id": 138, "image_path": "braillebench/sample138.png", "ground_truth": "press and listen", "grade": 1}
+{"id": 139, "image_path": "braillebench/sample139.png", "ground_truth": "main hall", "grade": 1}
+{"id": 140, "image_path": "braillebench/sample140.png", "ground_truth": "telephone", "grade": 1}
+{"id": 141, "image_path": "braillebench/sample141.png", "ground_truth": "gp entrance", "grade": 1}
+{"id": 142, "image_path": "braillebench/sample142.png", "ground_truth": "clinic access for prams and disabled", "grade": 1}
+{"id": 143, "image_path": "braillebench/sample143.png", "ground_truth": "legal", "grade": 1}
+{"id": 144, "image_path": "braillebench/sample144.png", "ground_truth": "personnel", "grade": 1}
+{"id": 155, "image_path": "braillebench/sample155.png", "ground_truth": "breathe", "grade": 1}
+{"id": 156, "image_path": "braillebench/sample156.png", "ground_truth": "burn", "grade": 1}
+{"id": 157, "image_path": "braillebench/sample157.png", "ground_truth": "dark", "grade": 1}
+{"id": 158, "image_path": "braillebench/sample158.png", "ground_truth": "fly", "grade": 1}
+{"id": 162, "image_path": "braillebench/sample162.png", "ground_truth": "george", "grade": 1}
+{"id": 163, "image_path": "braillebench/sample163.png", "ground_truth": "bike", "grade": 1}
+{"id": 165, "image_path": "braillebench/sample165.png", "ground_truth": "CURIOUS GEORGE", "grade": 1}
+{"id": 166, "image_path": "braillebench/sample166.png", "ground_truth": "is George.", "grade": 1}
+{"id": 167, "image_path": "braillebench/sample167.png", "ground_truth": "braille", "grade": 1}
+{"id": 168, "image_path": "braillebench/sample168.png", "ground_truth": "rainbow", "grade": 1}
+{"id": 169, "image_path": "braillebench/sample169.png", "ground_truth": "poems", "grade": 1}
+{"id": 191, "image_path": "braillebench/sample191.png", "ground_truth": "spicar chis taste test", "grade": 1}
+{"id": 194, "image_path": "braillebench/sample194.png", "ground_truth": "Flamin' Hot", "grade": 1}
+{"id": 195, "image_path": "braillebench/sample195.png", "ground_truth": "Flamin' Hot Limon", "grade": 1}
+{"id": 196, "image_path": "braillebench/sample196.png", "ground_truth": "Harvest snap tomato basil", "grade": 1}
+{"id": 197, "image_path": "braillebench/sample197.png", "ground_truth": "Chesters FRIES", "grade": 1}
+{"id": 201, "image_path": "braillebench/sample201.png", "ground_truth": "Crunchy", "grade": 1}
+{"id": 202, "image_path": "braillebench/sample202.png", "ground_truth": "Cheetos:", "grade": 1}
+{"id": 203, "image_path": "braillebench/sample203.png", "ground_truth": "Takis", "grade": 1}
+{"id": 205, "image_path": "braillebench/sample205.png", "ground_truth": "star", "grade": 1}
+{"id": 206, "image_path": "braillebench/sample206.png", "ground_truth": "Motorbike", "grade": 1}
+{"id": 207, "image_path": "braillebench/sample207.png", "ground_truth": "Q-tip", "grade": 1}
+{"id": 208, "image_path": "braillebench/sample208.png", "ground_truth": "music", "grade": 1}
+{"id": 209, "image_path": "braillebench/sample209.png", "ground_truth": "English", "grade": 1}
+{"id": 210, "image_path": "braillebench/sample210.png", "ground_truth": "cooking", "grade": 1}
+{"id": 211, "image_path": "braillebench/sample211.png", "ground_truth": "circle time", "grade": 1}
+{"id": 212, "image_path": "braillebench/sample212.png", "ground_truth": "geography", "grade": 1}
+{"id": 213, "image_path": "braillebench/sample213.png", "ground_truth": "park", "grade": 1}
+{"id": 214, "image_path": "braillebench/sample214.png", "ground_truth": "ECC", "grade": 1}
+{"id": 215, "image_path": "braillebench/sample215.png", "ground_truth": "Zoe", "grade": 1}
+{"id": 216, "image_path": "braillebench/sample216.png", "ground_truth": "shapes", "grade": 1}
+{"id": 217, "image_path": "braillebench/sample217.png", "ground_truth": "gymnastics", "grade": 1}
+{"id": 218, "image_path": "braillebench/sample218.png", "ground_truth": "snack", "grade": 1}
+{"id": 219, "image_path": "braillebench/sample219.png", "ground_truth": "breakfast", "grade": 1}
+{"id": 220, "image_path": "braillebench/sample220.png", "ground_truth": "Lego", "grade": 1}
+{"id": 223, "image_path": "braillebench/sample223.png", "ground_truth": "By Dr. Seuss", "grade": 1}
+{"id": 228, "image_path": "braillebench/sample228.png", "ground_truth": "The Alphabet Book an interactive song book", "grade": 1}
+{"id": 229, "image_path": "braillebench/sample229.png", "ground_truth": "DK Braille", "grade": 1}
+{"id": 230, "image_path": "braillebench/sample230.png", "ground_truth": "Animals", "grade": 1}
+{"id": 232, "image_path": "braillebench/sample232.png", "ground_truth": "jen bryant boris kulikov", "grade": 1}
+{"id": 233, "image_path": "braillebench/sample233.png", "ground_truth": "Counting", "grade": 1}
+{"id": 234, "image_path": "braillebench/sample234.png", "ground_truth": "Touch-and-feel number fun for readers with sight loss", "grade": 1}
+{"id": 236, "image_path": "braillebench/sample236.png", "ground_truth": "P. o. Box 455", "grade": 1}
+{"id": 237, "image_path": "braillebench/sample237.png", "ground_truth": "Talladega, Ala.", "grade": 1}
+{"id": 238, "image_path": "braillebench/sample238.png", "ground_truth": "April 28, 1954", "grade": 1}
+{"id": 239, "image_path": "braillebench/sample239.png", "ground_truth": "Dear Miss Keller,", "grade": 1}
+{"id": 240, "image_path": "braillebench/sample240.png", "ground_truth": "Perkins", "grade": 1}
+{"id": 241, "image_path": "braillebench/sample241.png", "ground_truth": "Nemeth", "grade": 1}
+{"id": 242, "image_path": "braillebench/sample242.png", "ground_truth": "Curriculum", "grade": 1}
+{"id": 243, "image_path": "braillebench/sample243.png", "ground_truth": "project inspire", "grade": 1}
+{"id": 244, "image_path": "braillebench/sample244.png", "ground_truth": "the best braille childrens book resources", "grade": 1}
+{"id": 246, "image_path": "braillebench/sample246.png", "ground_truth": "from Minnie", "grade": 1}
+{"id": 252, "image_path": "braillebench/sample252.png", "ground_truth": "I always have", "grade": 1}
+{"id": 254, "image_path": "braillebench/sample254.png", "ground_truth": "I know my phone number.", "grade": 1}
+{"id": 255, "image_path": "braillebench/sample255.png", "ground_truth": "Daddy's number", "grade": 1}
+{"id": 256, "image_path": "braillebench/sample256.png", "ground_truth": "bark", "grade": 1}
+{"id": 257, "image_path": "braillebench/sample257.png", "ground_truth": "fuo", "grade": 1}
+{"id": 258, "image_path": "braillebench/sample258.png", "ground_truth": "cuddly", "grade": 1}
+{"id": 259, "image_path": "braillebench/sample259.png", "ground_truth": "lick", "grade": 1}
+{"id": 260, "image_path": "braillebench/sample260.png", "ground_truth": "nose", "grade": 1}
+{"id": 261, "image_path": "braillebench/sample261.png", "ground_truth": "see", "grade": 1}
+{"id": 264, "image_path": "braillebench/sample264.png", "ground_truth": "Staff room", "grade": 1}
+{"id": 265, "image_path": "braillebench/sample265.png", "ground_truth": "You are under cctv coverage", "grade": 1}
+{"id": 266, "image_path": "braillebench/sample266.png", "ground_truth": "in case of fire use stairs", "grade": 1}
+{"id": 267, "image_path": "braillebench/sample267.png", "ground_truth": "love joy magic", "grade": 1}
+{"id": 268, "image_path": "braillebench/sample268.png", "ground_truth": "dream smile faith", "grade": 1}
+{"id": 269, "image_path": "braillebench/sample269.png", "ground_truth": "courage Be bold. dare", "grade": 1}
+{"id": 270, "image_path": "braillebench/sample270.png", "ground_truth": "strength family strong", "grade": 1}
+{"id": 271, "image_path": "braillebench/sample271.png", "ground_truth": "justice believe voice", "grade": 1}
+{"id": 272, "image_path": "braillebench/sample272.png", "ground_truth": "persevere always breathe", "grade": 1}
+{"id": 273, "image_path": "braillebench/sample273.png", "ground_truth": "imagine passion love", "grade": 1}
+{"id": 274, "image_path": "braillebench/sample274.png", "ground_truth": "peace live forgive", "grade": 1}
+{"id": 283, "image_path": "braillebench/sample283.png", "ground_truth": "Deaf Camp", "grade": 1}
+{"id": 284, "image_path": "braillebench/sample284.png", "ground_truth": "By Liam", "grade": 1}
+{"id": 285, "image_path": "braillebench/sample285.png", "ground_truth": "jaydan jeremy john", "grade": 1}
+{"id": 287, "image_path": "braillebench/sample287.png", "ground_truth": "I climbed", "grade": 1}
+{"id": 288, "image_path": "braillebench/sample288.png", "ground_truth": "I touched bell", "grade": 1}
+{"id": 290, "image_path": "braillebench/sample290.png", "ground_truth": "A: A wacky quacky", "grade": 1}
+{"id": 294, "image_path": "braillebench/sample294.png", "ground_truth": "all-gender restroom", "grade": 1}
+{"id": 295, "image_path": "braillebench/sample295.png", "ground_truth": "classroom", "grade": 1}
+{"id": 302, "image_path": "braillebench/sample302.png", "ground_truth": "MAIL ROOM", "grade": 1}
+{"id": 303, "image_path": "braillebench/sample303.png", "ground_truth": "126 exam room", "grade": 1}
+{"id": 304, "image_path": "braillebench/sample304.png", "ground_truth": "Bear walking on four legs", "grade": 1}
+{"id": 305, "image_path": "braillebench/sample305.png", "ground_truth": "what is an animal?", "grade": 1}
+{"id": 306, "image_path": "braillebench/sample306.png", "ground_truth": "Reptiles, such as snakes and crocodiles, have dry, scaly skin", "grade": 1}
+{"id": 307, "image_path": "braillebench/sample307.png", "ground_truth": "Rhinoceros", "grade": 1}
+{"id": 308, "image_path": "braillebench/sample308.png", "ground_truth": "Three rows of teeth", "grade": 1}
+{"id": 309, "image_path": "braillebench/sample309.png", "ground_truth": "lis et bralles", "grade": 1}
+{"id": 72, "image_path": "braillebench/sample72.png", "ground_truth": "male toilet and ambulant toilet", "grade": 1}
+{"id": 91, "image_path": "braillebench/sample91.png", "ground_truth": "restroom", "grade": 1}
+{"id": 145, "image_path": "braillebench/sample145.png", "ground_truth": "history of art", "grade": 1}
+{"id": 159, "image_path": "braillebench/sample159.png", "ground_truth": "glow", "grade": 1}
+{"id": 164, "image_path": "braillebench/sample164.png", "ground_truth": "pontac", "grade": 1}
+{"id": 170, "image_path": "braillebench/sample170.png", "ground_truth": "mIKE", "grade": 1}
+{"id": 171, "image_path": "braillebench/sample171.png", "ground_truth": "bARNESS", "grade": 1}
+{"id": 174, "image_path": "braillebench/sample174.png", "ground_truth": "Secret Code", "grade": 1}
+{"id": 262, "image_path": "braillebench/sample262.png", "ground_truth": "X-ray room", "grade": 1}
+{"id": 280, "image_path": "braillebench/sample280.png", "ground_truth": "I Swim", "grade": 1}
+{"id": 296, "image_path": "braillebench/sample296.png", "ground_truth": "ALARM WILL SOUND EMERGENCY EXIT ONLY", "grade": 1}
+{"id": 299, "image_path": "braillebench/sample299.png", "ground_truth": "Jury Room A", "grade": 1}
+{"id": "5", "image_path": "braillebench/sample5.png", "ground_truth": "staff only", "grade": 2}
+{"id": "9", "image_path": "braillebench/sample9.png", "ground_truth": "What Shape Am I? By: Kayleigh Joiner", "grade": 2}
+{"id": "60", "image_path": "braillebench/sample60.png", "ground_truth": "by Minnie", "grade": 2}
+{"id": "76", "image_path": "braillebench/sample76.png", "ground_truth": "MAIN ELECTRICAL DISCONNECT", "grade": 2}
+{"id": "77", "image_path": "braillebench/sample77.png", "ground_truth": "STAIR 51", "grade": 2}
+{"id": "78", "image_path": "braillebench/sample78.png", "ground_truth": "men", "grade": 2}
+{"id": "92", "image_path": "braillebench/sample92.png", "ground_truth": "step 1 press keypad for your desired floor", "grade": 2}
+{"id": "93", "image_path": "braillebench/sample93.png", "ground_truth": "step 2 read elevator car assignment", "grade": 2}
+{"id": "94", "image_path": "braillebench/sample94.png", "ground_truth": "for people with disabilities floor number", "grade": 2}
+{"id": "102", "image_path": "braillebench/sample102.png", "ground_truth": "Shimla", "grade": 2}
+{"id": "122", "image_path": "braillebench/sample122.png", "ground_truth": "Enter", "grade": 2}
+{"id": "1321", "image_path": "braillebench/sample132a.png", "ground_truth": "event of a fire alarm", "grade": 2}
+{"id": "1322", "image_path": "braillebench/sample132b.png", "ground_truth": "use the lift", "grade": 2}
+{"id": "175", "image_path": "braillebench/sample175.png", "ground_truth": "Lucy saw it when Oscar opened his book.", "grade": 2}
+{"id": "176", "image_path": "braillebench/sample176.png", "ground_truth": "Oscar's book is different from Lucy's.", "grade": 2}
+{"id": "177", "image_path": "braillebench/sample177.png", "ground_truth": "Lucy's page has black letters. She reads with her eyes.", "grade": 2}
+{"id": "178", "image_path": "braillebench/sample178.png", "ground_truth": "Oscar's page is covered with bumps. He reads with his fingers!", "grade": 2}
+{"id": "179", "image_path": "braillebench/sample179.png", "ground_truth": "\"Is that a secret code?\" Lucy asks. \"It's not a secret! It's Braille!\" Oscar says. \"I can teach it to you.\"", "grade": 2}
+{"id": "180", "image_path": "braillebench/sample180.png", "ground_truth": "Each set of bumps is a letter. Together, they form words.", "grade": 2}
+{"id": "181", "image_path": "braillebench/sample181.png", "ground_truth": "\"Just like my friends!\" Lucy says.", "grade": 2}
+{"id": "182", "image_path": "braillebench/sample182.png", "ground_truth": "When Lucy learns a b c, Oscar learns a b c", "grade": 2}
+{"id": "183", "image_path": "braillebench/sample183.png", "ground_truth": "Now Lucy knows the secret code.", "grade": 2}
+{"id": "184", "image_path": "braillebench/sample184.png", "ground_truth": "... and Lucy can read the message.", "grade": 2}
+{"id": "185", "image_path": "braillebench/sample185.png", "ground_truth": "Isn't reading fun?", "grade": 2}
+{"id": "188", "image_path": "braillebench/sample188.png", "ground_truth": "And she played by herself, which was the loneliest thing of all. Her favorite toy was a kite of paper and sticks. Every morning, when the wind came from the east past the rising sun, she flew her kite. And every evening, when the wind went to the west past the setting sun, she flew her kite. Her toy was like a flower in the sky. And it was like a prayer in the wind.", "grade": 2}
+{"id": "189", "image_path": "braillebench/sample189.png", "ground_truth": "When his feet reached the ground, he knelt before his tiny daughter. And he touched the ground before her with his lips. Then he rose and embraced her, and she almost disappeared in his arms.", "grade": 2}
+{"id": "221", "image_path": "braillebench/sample221.png", "ground_truth": "music", "grade": 2}
+{"id": "222", "image_path": "braillebench/sample222.png", "ground_truth": "What was I Scared of?", "grade": 2}
+{"id": "224", "image_path": "braillebench/sample224.png", "ground_truth": "Well ... I was walking in the night And I saw nothing scary. For I have never been afraid Of anything, Not very.", "grade": 2}
+{"id": "225", "image_path": "braillebench/sample225.png", "ground_truth": "Then I was deep within the woods When, suddenly, I spied them. I saw a pair of pale green pants With nobody inside them!", "grade": 2}
+{"id": "226", "image_path": "braillebench/sample226.png", "ground_truth": "I wasn't scared. But, yet, I stopped. What could those pants be there for? What could a pair of pants at night Be standing in the air for?", "grade": 2}
+{"id": "227", "image_path": "braillebench/sample227.png", "ground_truth": "I said, \"I do not fear those pants With nobody inside them.\" I said, and said, and said those words. I said them. But I lied them.", "grade": 2}
+{"id": "248", "image_path": "braillebench/sample248.png", "ground_truth": "even without sight there is still vision", "grade": 1}
+{"id": "249", "image_path": "braillebench/sample249.png", "ground_truth": "I Loved you", "grade": 2}
+{"id": "250", "image_path": "braillebench/sample250.png", "ground_truth": "Yesterday", "grade": 2}
+{"id": "251", "image_path": "braillebench/sample251.png", "ground_truth": "I Love you Still", "grade": 2}
+{"id": "253", "image_path": "braillebench/sample253.png", "ground_truth": "I Always Will", "grade": 2}
+{"id": "275", "image_path": "braillebench/sample275.png", "ground_truth": "Power Ranger Power Rangers are Ninjas that save the world. They are good. They fight bad guys. They each wear one color. One Power Ranger wears Red. Another wears pink. Another wears blue. One wears green. And the last Power Ranger is Yellow.", "grade": 2}
+{"id": "276", "image_path": "braillebench/sample276.png", "ground_truth": "Princess some girls like to dress like a princess. A princess rules over a kingdom. A princess has pretty hair and a pretty dress. Trolls Trolls are pretend creatures that have big soft hair. Their hair is bright and has a lot of colors. They have big noses. 8", "grade": 2}
+{"id": "291", "image_path": "braillebench/sample291.png", "ground_truth": "Halloween Kids wear Costumes for Halloween. Costumes are fun clothes that make us look like someone else. They are clothes for pretend. You can put clothes on to look like a doctor. You can put clothes on to look like Paul Bunyan. You can put clothes on to look like a football player. You can get candy on Halloween.", "grade": 2}
+{"id": "292", "image_path": "braillebench/sample292.png", "ground_truth": "Belle. Belle is a woman who lives with her Dad. Belle loves to read books. One day her Dad gets captured by a beast. The beast lives in a magic castle. Belle saves her Dad and now has to live in the magic castle with the beast. The beast was mean but became nice. Belle and the beast love eachother. Belle wears a beautiful yellow dress.", "grade": 2}
+{"id": "293", "image_path": "braillebench/sample293.png", "ground_truth": "Star Wars is a movie about the future in outer", "grade": 2}
+{"id": "297", "image_path": "braillebench/sample297.png", "ground_truth": "hand wash station", "grade": 2}
+{"id": "298", "image_path": "braillebench/sample298.png", "ground_truth": "mother's Room", "grade": 2}
+{"id": "300", "image_path": "braillebench/sample300.png", "ground_truth": "locker room m122", "grade": 2}

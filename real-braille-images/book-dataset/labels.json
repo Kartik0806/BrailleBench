@@ -1,0 +1,712 @@
+[
+  {
+    "id": 1,
+    "image_path": "braille_book/sample1.png",
+    "ground_truth": "Parts of the Body"
+  },
+  {
+    "id": 3,
+    "image_path": "braille_book/sample3.png",
+    "ground_truth": "stStomach"
+  },
+  {
+    "id": 4,
+    "image_path": "braille_book/sample4.png",
+    "ground_truth": "Ear"
+  },
+  {
+    "id": 5,
+    "image_path": "braille_book/sample5.png",
+    "ground_truth": "Head"
+  },
+  {
+    "id": 6,
+    "image_path": "braille_book/sample6.png",
+    "ground_truth": "Neck"
+  },
+  {
+    "id": 7,
+    "image_path": "braille_book/sample7.png",
+    "ground_truth": "Face"
+  },
+  {
+    "id": 8,
+    "image_path": "braille_book/sample8.png",
+    "ground_truth": "Shoulder"
+  },
+  {
+    "id": 9,
+    "image_path": "braille_book/sample9.png",
+    "ground_truth": "Chest"
+  },
+  {
+    "id": 10,
+    "image_path": "braille_book/sample10.png",
+    "ground_truth": "Arm"
+  },
+  {
+    "id": 11,
+    "image_path": "braille_book/sample11.png",
+    "ground_truth": "Forearm"
+  },
+  {
+    "id": 12,
+    "image_path": "braille_book/sample12.png",
+    "ground_truth": "Hand"
+  },
+  {
+    "id": 13,
+    "image_path": "braille_book/sample13.png",
+    "ground_truth": "Thigh"
+  },
+  {
+    "id": 14,
+    "image_path": "braille_book/sample14.png",
+    "ground_truth": "Leg"
+  },
+  {
+    "id": 15,
+    "image_path": "braille_book/sample15.png",
+    "ground_truth": "Foot"
+  },
+  {
+    "id": 16,
+    "image_path": "braille_book/sample16.png",
+    "ground_truth": "Ankle"
+  },
+  {
+    "id": 17,
+    "image_path": "braille_book/sample17.png",
+    "ground_truth": "Knee"
+  },
+  {
+    "id": 18,
+    "image_path": "braille_book/sample18.png",
+    "ground_truth": "Fingers"
+  },
+  {
+    "id": 19,
+    "image_path": "braille_book/sample19.png",
+    "ground_truth": "Wrist"
+  },
+  {
+    "id": 20,
+    "image_path": "braille_book/sample20.png",
+    "ground_truth": "Elbow"
+  },
+  {
+    "id": 21,
+    "image_path": "braille_book/sample21.png",
+    "ground_truth": "Parts of the Face"
+  },
+  {
+    "id": 22,
+    "image_path": "braille_book/sample22.png",
+    "ground_truth": "Cheek"
+  },
+  {
+    "id": 24,
+    "image_path": "braille_book/sample24.png",
+    "ground_truth": "Eyebrow"
+  },
+  {
+    "id": 25,
+    "image_path": "braille_book/sample25.png",
+    "ground_truth": "Hair"
+  },
+  {
+    "id": 26,
+    "image_path": "braille_book/sample26.png",
+    "ground_truth": "Eye"
+  },
+  {
+    "id": 27,
+    "image_path": "braille_book/sample27.png",
+    "ground_truth": "Nose"
+  },
+  {
+    "id": 29,
+    "image_path": "braille_book/sample29.png",
+    "ground_truth": "Lips"
+  },
+  {
+    "id": 30,
+    "image_path": "braille_book/sample30.png",
+    "ground_truth": "Chin"
+  },
+  {
+    "id": 31,
+    "image_path": "braille_book/sample31.png",
+    "ground_truth": "Parts of the Hand"
+  },
+  {
+    "id": 32,
+    "image_path": "braille_book/sample32.png",
+    "ground_truth": "Middle Finger"
+  },
+  {
+    "id": 33,
+    "image_path": "braille_book/sample33.png",
+    "ground_truth": "Index finger"
+  },
+  {
+    "id": 34,
+    "image_path": "braille_book/sample34.png",
+    "ground_truth": "Ring finger"
+  },
+  {
+    "id": 35,
+    "image_path": "braille_book/sample35.png",
+    "ground_truth": "Little finger"
+  },
+  {
+    "id": 36,
+    "image_path": "braille_book/sample36.png",
+    "ground_truth": "Thumb"
+  },
+  {
+    "id": 37,
+    "image_path": "braille_book/sample37.png",
+    "ground_truth": "Parts of the Foot"
+  },
+  {
+    "id": 38,
+    "image_path": "braille_book/sample38.png",
+    "ground_truth": "Heel"
+  },
+  {
+    "id": 39,
+    "image_path": "braille_book/sample39.png",
+    "ground_truth": "a Toes"
+  },
+  {
+    "id": 44,
+    "image_path": "braille_book/sample44.png",
+    "ground_truth": "a Ring finger"
+  },
+  {
+    "id": 48,
+    "image_path": "braille_book/sample48.png",
+    "ground_truth": "Toes"
+  },
+  {
+    "id": 49,
+    "image_path": "braille_book/sample49.png",
+    "ground_truth": "Decay"
+  },
+  {
+    "id": 50,
+    "image_path": "braille_book/sample50.png",
+    "ground_truth": "Human Digestive System"
+  },
+  {
+    "id": 52,
+    "image_path": "braille_book/sample52.png",
+    "ground_truth": "st Stomach si Small intestine"
+  },
+  {
+    "id": 54,
+    "image_path": "braille_book/sample54.png",
+    "ground_truth": "Mouth"
+  },
+  {
+    "id": 55,
+    "image_path": "braille_book/sample55.png",
+    "ground_truth": "Liver"
+  },
+  {
+    "id": 56,
+    "image_path": "braille_book/sample56.png",
+    "ground_truth": "Pancreas"
+  },
+  {
+    "id": 57,
+    "image_path": "braille_book/sample57.png",
+    "ground_truth": "-Large intestine"
+  },
+  {
+    "id": 58,
+    "image_path": "braille_book/sample58.png",
+    "ground_truth": "Rectum"
+  },
+  {
+    "id": 59,
+    "image_path": "braille_book/sample59.png",
+    "ground_truth": "Anus"
+  },
+  {
+    "id": 60,
+    "image_path": "braille_book/sample60.png",
+    "ground_truth": "Human Resiratory System"
+  },
+  {
+    "id": 61,
+    "image_path": "braille_book/sample61.png",
+    "ground_truth": "Nose Mouth"
+  },
+  {
+    "id": 62,
+    "image_path": "braille_book/sample62.png",
+    "ground_truth": "Wind pipe"
+  },
+  {
+    "id": 63,
+    "image_path": "braille_book/sample63.png",
+    "ground_truth": "Lung"
+  },
+  {
+    "id": 64,
+    "image_path": "braille_book/sample64.png",
+    "ground_truth": "Human Skeleton System"
+  },
+  {
+    "id": 65,
+    "image_path": "braille_book/sample65.png",
+    "ground_truth": "Skull"
+  },
+  {
+    "id": 66,
+    "image_path": "braille_book/sample66.png",
+    "ground_truth": "Elbow joint"
+  },
+  {
+    "id": 67,
+    "image_path": "braille_book/sample67.png",
+    "ground_truth": "Rib-Cage Backbone"
+  },
+  {
+    "id": 68,
+    "image_path": "braille_book/sample68.png",
+    "ground_truth": "Knee joint"
+  },
+  {
+    "id": 69,
+    "image_path": "braille_book/sample69.png",
+    "ground_truth": "Family Tree"
+  },
+  {
+    "id": 70,
+    "image_path": "braille_book/sample70.png",
+    "ground_truth": "Material Material Grandmother Grandfather"
+  },
+  {
+    "id": 71,
+    "image_path": "braille_book/sample71.png",
+    "ground_truth": "Paternal Grandmother Paternal Grandfather"
+  },
+  {
+    "id": 72,
+    "image_path": "braille_book/sample72.png",
+    "ground_truth": "Emotional Expressions"
+  },
+  {
+    "id": 73,
+    "image_path": "braille_book/sample73.png",
+    "ground_truth": "Happy Angry"
+  },
+  {
+    "id": 74,
+    "image_path": "braille_book/sample74.png",
+    "ground_truth": "Shy Scared"
+  },
+  {
+    "id": 76,
+    "image_path": "braille_book/sample76.png",
+    "ground_truth": "Lonely"
+  },
+  {
+    "id": 77,
+    "image_path": "braille_book/sample77.png",
+    "ground_truth": "Crying"
+  },
+  {
+    "id": 78,
+    "image_path": "braille_book/sample78.png",
+    "ground_truth": "Laughing"
+  },
+  {
+    "id": 79,
+    "image_path": "braille_book/sample79.png",
+    "ground_truth": "Wink"
+  },
+  {
+    "id": 80,
+    "image_path": "braille_book/sample80.png",
+    "ground_truth": "Tiger"
+  },
+  {
+    "id": 81,
+    "image_path": "braille_book/sample81.png",
+    "ground_truth": "Wild Animals"
+  },
+  {
+    "id": 82,
+    "image_path": "braille_book/sample82.png",
+    "ground_truth": "Elephant"
+  },
+  {
+    "id": 83,
+    "image_path": "braille_book/sample83.png",
+    "ground_truth": "Giraffe"
+  },
+  {
+    "id": 85,
+    "image_path": "braille_book/sample85.png",
+    "ground_truth": "Rhinoceros"
+  },
+  {
+    "id": 88,
+    "image_path": "braille_book/sample88.png",
+    "ground_truth": "Deer"
+  },
+  {
+    "id": 89,
+    "image_path": "braille_book/sample89.png",
+    "ground_truth": "Bear"
+  },
+  {
+    "id": 90,
+    "image_path": "braille_book/sample90.png",
+    "ground_truth": "Lion"
+  },
+  {
+    "id": 94,
+    "image_path": "braille_book/sample94.png",
+    "ground_truth": "Cow"
+  },
+  {
+    "id": 95,
+    "image_path": "braille_book/sample95.png",
+    "ground_truth": "Domestic Animals"
+  },
+  {
+    "id": 97,
+    "image_path": "braille_book/sample97.png",
+    "ground_truth": "Donkey"
+  },
+  {
+    "id": 98,
+    "image_path": "braille_book/sample98.png",
+    "ground_truth": "Dog"
+  },
+  {
+    "id": 101,
+    "image_path": "braille_book/sample101.png",
+    "ground_truth": "Goat"
+  },
+  {
+    "id": 103,
+    "image_path": "braille_book/sample103.png",
+    "ground_truth": "Camel"
+  },
+  {
+    "id": 104,
+    "image_path": "braille_book/sample104.png",
+    "ground_truth": "Cat"
+  },
+  {
+    "id": 106,
+    "image_path": "braille_book/sample106.png",
+    "ground_truth": "Fishes"
+  },
+  {
+    "id": 107,
+    "image_path": "braille_book/sample107.png",
+    "ground_truth": "Fish"
+  },
+  {
+    "id": 108,
+    "image_path": "braille_book/sample108.png",
+    "ground_truth": "Blue whale"
+  },
+  {
+    "id": 109,
+    "image_path": "braille_book/sample109.png",
+    "ground_truth": "Shark"
+  },
+  {
+    "id": 111,
+    "image_path": "braille_book/sample111.png",
+    "ground_truth": "Star fish"
+  },
+  {
+    "id": 112,
+    "image_path": "braille_book/sample112.png",
+    "ground_truth": "Octopus"
+  },
+  {
+    "id": 113,
+    "image_path": "braille_book/sample113.png",
+    "ground_truth": "Crocodile"
+  },
+  {
+    "id": 114,
+    "image_path": "braille_book/sample114.png",
+    "ground_truth": "Reptiles"
+  },
+  {
+    "id": 116,
+    "image_path": "braille_book/sample116.png",
+    "ground_truth": "Snake Lizard Turtle"
+  },
+  {
+    "id": 117,
+    "image_path": "braille_book/sample117.png",
+    "ground_truth": "Butterfly"
+  },
+  {
+    "id": 118,
+    "image_path": "braille_book/sample118.png",
+    "ground_truth": "Insects"
+  },
+  {
+    "id": 119,
+    "image_path": "braille_book/sample119.png",
+    "ground_truth": "Housefly"
+  },
+  {
+    "id": 120,
+    "image_path": "braille_book/sample120.png",
+    "ground_truth": "Silkworm"
+  },
+  {
+    "id": 121,
+    "image_path": "braille_book/sample121.png",
+    "ground_truth": "Ant"
+  },
+  {
+    "id": 122,
+    "image_path": "braille_book/sample122.png",
+    "ground_truth": "Mosquito"
+  },
+  {
+    "id": 124,
+    "image_path": "braille_book/sample124.png",
+    "ground_truth": "Spider"
+  },
+  {
+    "id": 126,
+    "image_path": "braille_book/sample126.png",
+    "ground_truth": "Body Parts of a Bird"
+  },
+  {
+    "id": 127,
+    "image_path": "braille_book/sample127.png",
+    "ground_truth": "Beak"
+  },
+  {
+    "id": 128,
+    "image_path": "braille_book/sample128.png",
+    "ground_truth": "Crown"
+  },
+  {
+    "id": 129,
+    "image_path": "braille_book/sample129.png",
+    "ground_truth": "Back"
+  },
+  {
+    "id": 130,
+    "image_path": "braille_book/sample130.png",
+    "ground_truth": "Neck Breast"
+  },
+  {
+    "id": 131,
+    "image_path": "braille_book/sample131.png",
+    "ground_truth": "Belly"
+  },
+  {
+    "id": 132,
+    "image_path": "braille_book/sample132.png",
+    "ground_truth": "Feet"
+  },
+  {
+    "id": 133,
+    "image_path": "braille_book/sample133.png",
+    "ground_truth": "Wings"
+  },
+  {
+    "id": 134,
+    "image_path": "braille_book/sample134.png",
+    "ground_truth": "Birds that Fly"
+  },
+  {
+    "id": 135,
+    "image_path": "braille_book/sample135.png",
+    "ground_truth": "Crow"
+  },
+  {
+    "id": 136,
+    "image_path": "braille_book/sample136.png",
+    "ground_truth": "Eagle"
+  },
+  {
+    "id": 138,
+    "image_path": "braille_book/sample138.png",
+    "ground_truth": "Owl"
+  },
+  {
+    "id": 139,
+    "image_path": "braille_book/sample139.png",
+    "ground_truth": "Peacock"
+  },
+  {
+    "id": 140,
+    "image_path": "braille_book/sample140.png",
+    "ground_truth": "Birds that Do Not Fly"
+  },
+  {
+    "id": 141,
+    "image_path": "braille_book/sample141.png",
+    "ground_truth": "Ostrich"
+  },
+  {
+    "id": 142,
+    "image_path": "braille_book/sample142.png",
+    "ground_truth": "Hen"
+  },
+  {
+    "id": 143,
+    "image_path": "braille_book/sample143.png",
+    "ground_truth": "Birds that Swim"
+  },
+  {
+    "id": 144,
+    "image_path": "braille_book/sample144.png",
+    "ground_truth": "Swan"
+  },
+  {
+    "id": 145,
+    "image_path": "braille_book/sample145.png",
+    "ground_truth": "Duck"
+  },
+  {
+    "id": 148,
+    "image_path": "braille_book/sample148.png",
+    "ground_truth": "Types of Beaks"
+  },
+  {
+    "id": 154,
+    "image_path": "braille_book/sample154.png",
+    "ground_truth": "Types of Feet and Claws"
+  },
+  {
+    "id": 157,
+    "image_path": "braille_book/sample157.png",
+    "ground_truth": "Types of Feet and"
+  },
+  {
+    "id": 158,
+    "image_path": "braille_book/sample158.png",
+    "ground_truth": "Claws"
+  },
+  {
+    "id": 160,
+    "image_path": "braille_book/sample160.png",
+    "ground_truth": "Wading claws of Crane"
+  },
+  {
+    "id": 163,
+    "image_path": "braille_book/sample163.png",
+    "ground_truth": "Sense Organs"
+  },
+  {
+    "id": 165,
+    "image_path": "braille_book/sample165.png",
+    "ground_truth": "Eye Ear Nose"
+  },
+  {
+    "id": 166,
+    "image_path": "braille_book/sample166.png",
+    "ground_truth": "Skin Tongue"
+  },
+  {
+    "id": 167,
+    "image_path": "braille_book/sample167.png",
+    "ground_truth": "Structure of the Tongue"
+  },
+  {
+    "id": 169,
+    "image_path": "braille_book/sample169.png",
+    "ground_truth": "Bitter"
+  },
+  {
+    "id": 170,
+    "image_path": "braille_book/sample170.png",
+    "ground_truth": "Sour"
+  },
+  {
+    "id": 172,
+    "image_path": "braille_book/sample172.png",
+    "ground_truth": "Salty"
+  },
+  {
+    "id": 174,
+    "image_path": "braille_book/sample174.png",
+    "ground_truth": "Sweet"
+  },
+  {
+    "id": 175,
+    "image_path": "braille_book/sample175.png",
+    "ground_truth": "Structure of an Eye"
+  },
+  {
+    "id": 177,
+    "image_path": "braille_book/sample177.png",
+    "ground_truth": "Cornea"
+  },
+  {
+    "id": 178,
+    "image_path": "braille_book/sample178.png",
+    "ground_truth": "Optic nerve"
+  },
+  {
+    "id": 179,
+    "image_path": "braille_book/sample179.png",
+    "ground_truth": "Iris"
+  },
+  {
+    "id": 180,
+    "image_path": "braille_book/sample180.png",
+    "ground_truth": "Types of Teeth"
+  },
+  {
+    "id": 181,
+    "image_path": "braille_book/sample181.png",
+    "ground_truth": "Incisor Canine"
+  },
+  {
+    "id": 183,
+    "image_path": "braille_book/sample183.png",
+    "ground_truth": "Premolar Molar"
+  },
+  {
+    "id": 184,
+    "image_path": "braille_book/sample184.png",
+    "ground_truth": "Position of different types of teeth in the mouth"
+  },
+  {
+    "id": 185,
+    "image_path": "braille_book/sample185.png",
+    "ground_truth": "Molars Premolars"
+  },
+  {
+    "id": 186,
+    "image_path": "braille_book/sample186.png",
+    "ground_truth": "Cane Incisors"
+  },
+  {
+    "id": 188,
+    "image_path": "braille_book/sample188.png",
+    "ground_truth": "Structure of a Tooth"
+  },
+  {
+    "id": 189,
+    "image_path": "braille_book/sample189.png",
+    "ground_truth": "Crown Neck Root"
+  },
+  {
+    "id": 190,
+    "image_path": "braille_book/sample190.png",
+    "ground_truth": "Stages of Tooth Decay"
+  }
+]
