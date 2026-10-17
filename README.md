@@ -1,6 +1,10 @@
 # Project Page for paper: 
 
-**Learning to Read Braille: Benchmarking and Improving Braille Recognition Capabilities of VLMs
+** 
+Learning to Read Braille: Benchmarking and Improving Braille Recognition Capabilities of VLMs 
+**
+
+** 
 Teaching vision-language models to read braille from photographs. The project covers the whole loop:
 render synthetic braille photos that statistically match real ones, fine-tune a model on them, and
 evaluate it on real braille images.
